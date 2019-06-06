@@ -1,7 +1,5 @@
 # weather-forecast
 
-> test assignment
-
 ## Build Setup
 
 ``` bash
